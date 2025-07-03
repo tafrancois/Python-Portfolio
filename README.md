@@ -1,2 +1,2 @@
-# Python
-This repository is a collection of projects and homework assignments from a master's python course at Maryville University.
+# Python Portfolio
+This repository is a collection of projects and homework assignments I coded from a master's Python course at Maryville University.
